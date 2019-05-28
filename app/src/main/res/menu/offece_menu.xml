@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/LSV"
+        android:title="@string/LSV" />
+    <item
+        android:id="@+id/ROB"
+        android:title="@string/ROB" />
+    <item
+        android:id="@+id/RTV"
+        android:title="@string/RTV" />
+    <item
+        android:id="@+id/SLV"
+        android:title="@string/SLV" />
+    <item
+        android:id="@+id/VLV"
+        android:title="@string/VLV" />
+    <item
+        android:id="@+id/NPV"
+        android:title="@string/NPV" />
+    <item
+        android:id="@+id/DLV"
+        android:title="@string/DLV" />
+    <item
+        android:id="@+id/WOV"
+        android:title="@string/WOV" />
+    <item
+        android:id="@+id/RMV"
+        android:title="@string/RMV" />
+    <item
+        android:id="@+id/CSV"
+        android:title="@string/CSV" />
+    <item
+        android:id="@+id/DGD"
+        android:title="@string/DGD" />
+    <item
+        android:id="@+id/DUI"
+        android:title="@string/DUI" />
+</menu>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NRSTYBS</string>
+    <string name="all_rights_reserved">2019 Botosoft Technologies. All rights reserved</string>
+    <string name="cardscan">Scan Drivers License</string>
+    <string name="fingerprintscan">Scan Finger Print</string>
+    <string name="platenoquery">Query Plate Number</string>
+    <string name="Usersdetails" />
+    <string name="offensepoint">VIEW OFFENCE</string>
+    <string name="bookoffencebtn">BOOK OFFENCE</string>
+    <string name="LSV">LIGHT/SIGN VIOLATION</string>
+    <string name="ROB">ROAD OBSTRUCTION</string>
+    <string name="RTV">ROUTE VIOLATION</string>
+    <string name="SLV">SPEED LIMIT VIOLATION</string>
+    <string name="VLV">VEHICLE LICENCE VIOLATION</string>
+    <string name="NPV">VEHICLE NUMBER PLATE VIOLATION</string>
+    <string name="DLV">DRIVER’S LICENCE VIOLATION</string>
+    <string name="WOV">WRONGFUL OVERTAKING</string>
+    <string name="RMV">ROAD MARKING VIOLATION</string>
+    <string name="CSV">CAUTION SIGN VIOLATION</string>
+    <string name="DGD">DANGEROUS DRIVING</string>
+    <string name="DUI">DRIVING UNDER ALCOHOL OR DRUG INFLUENCE</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

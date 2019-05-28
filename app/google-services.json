@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252537309403",
+    "firebase_url": "https://nrsy-7370c.firebaseio.com",
+    "project_id": "nrsy-7370c",
+    "storage_bucket": "nrsy-7370c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252537309403:android:9cfc0c7dacb552e5",
+        "android_client_info": {
+          "package_name": "com.botosoft.nrstybs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252537309403-6gse8tmpf4ji891qg294sgm2jltb2m2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.botosoft.nrstybs",
+            "certificate_hash": "5cce00d0b45cd12077cbbd2d30f432531abb718c"
+          }
+        },
+        {
+          "client_id": "252537309403-g76616acdnlehs1on90gpe9rlm8iemjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBji6yI_pO9PdDp8wnCN50yUQT6b8ivePg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252537309403-g76616acdnlehs1on90gpe9rlm8iemjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
